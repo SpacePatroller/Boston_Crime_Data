@@ -7,9 +7,9 @@ Boston is Massachusetts's capital and largest city. Founded in 1630, it's one of
 
 
 
-Citations
-<ul>
+## Citations
+_________________________________________________________________________________________________________________________
 
-https://en.wikipedia.org/wiki/Boston
+_https://en.wikipedia.org/wiki/Boston
 
- "Population and Housing Occupancy Status: 2010 – State – County Subdivision, 2010 Census Redistricting Data (Public Law 94-171) Summary File". United States Census Bureau. Retrieved March 23, 2011.
+ _"Population and Housing Occupancy Status: 2010 – State – County Subdivision, 2010 Census Redistricting Data (Public Law 94-171) Summary File". United States Census Bureau. Retrieved March 23, 2011.
