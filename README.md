@@ -57,9 +57,9 @@ Count of all offenses commited.
 
 ![](/images/offenseCount.png)
 
+![](/images/streetsOffenseCount.png)
 
-![](/images/streetsOffenseCount.png)|![](/images/districtOffenseCount.png)
-
+![](/images/districtOffenseCount.png)
 
 Offense Counts by District Based on Overall Top Ten Offenses
 
