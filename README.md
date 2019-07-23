@@ -43,7 +43,7 @@ Columns
 There are 319,073 rows and 17 columns. 
 
 Data Types
-![](/images/dTypes.png)
+![](/images/dataTypes.PNG)
 
 Heatmap of Null Values - We see that the Shooting column is mostly NaN values. Unfortunantley it is not clear if NaN represents no shooting or no information was recorded. 
 
