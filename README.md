@@ -57,15 +57,22 @@ Count of all offenses commited.
 
 ![](/images/offenseCount.png)
 
-Top ten street where offenses are commited.
 
-![](/images/streetsOffenseCount.png)
-
-Districts offense rates.
-
-![](/images/districtOffenseCount.png)
+Top ten street where offenses are commited. | Districts Offense Rates.
+------------ | -------------
+![](/images/streetsOffenseCount.png) | ![](/images/districtOffenseCount.png)
 
 
+Offense Counts by District Based on Overall Top Ten Offenses
+
+![](/images/offensesByDistrict.png)
+
+Heatmap of Overall Top Ten Offenses Commited by District
+
+![](/images/districtsOffenseHeatMap.png)
+
+
+![](/images/)
 ![](/images/)
 ![](/images/)
 
