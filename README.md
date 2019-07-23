@@ -65,11 +65,19 @@ Offense Counts by District Based on Overall Top Ten Offenses
 
 ![](/images/offensesByDistrict.png)
 
-Heatmap of Overall Top Ten Offenses Commited by District
 
 ![](/images/districtsOffenseHeatMap.png)
 
 
+![](/images/offenseByWeekdayHeatmap.png)
+
+
+![](/images/crimesByyear.png)
+
+![](/images/topTenbyYear.png)
+
+
+![](/images/)
 ![](/images/)
 ![](/images/)
 ![](/images/)
