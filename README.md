@@ -17,6 +17,32 @@ Question that will be answered ...
 - Is there any day of the week that has a higher offense rate?
 - Where are the offenses being commited?
  - Are certain locations more prime to specific offenses?
+ 
+ 
+##
+
+Overview of our Boston Crime Data. 
+
+Columns
+ - Incident Number
+ - Offense Code
+ - Offense Code Group
+ - Offense Description
+ - District
+ - Reporting Area
+ - Shooting
+ - Occured on Date
+ - Year
+ - Month
+ - Day of Week
+ - Hour
+ - UCR Part
+ - Street
+ - Lat
+ - Long
+ - Location
+
+![test](/images/nullValueHeatMap.png)
 
 ## Citations
 
