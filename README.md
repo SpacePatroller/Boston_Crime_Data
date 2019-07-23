@@ -51,9 +51,24 @@ Heatmap of Null Values - We see that the Shooting column is mostly NaN values. U
 ![](/images/nullValueHeatMap.png)
 
 
-## Explatory Analysis of the Data Set
+## Exploratory Analysis of the Data Set
+
+Count of all offenses commited.
 
 ![](/images/offenseCount.png)
+
+Top ten street where offenses are commited.
+
+![](/images/streetsOffenseCount.png)
+
+Districts offense rates.
+
+![](/images/districtOffenseCount.png)
+
+
+![](/images/)
+![](/images/)
+
 
 ## Citations
 
