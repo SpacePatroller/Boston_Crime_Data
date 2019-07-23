@@ -18,10 +18,8 @@ Question that will be answered ...
 - Where are the offenses being commited?
  - Are certain locations more prime to specific offenses?
  
- 
-##
 
-Overview of our Boston Crime Data. 
+## Overview of our Boston Crime Data. 
 
 Columns
  - Incident Number
@@ -41,8 +39,15 @@ Columns
  - Lat
  - Long
  - Location
+ 
+There are 319,073 rows and 17 columns. 
 
-![test](/images/nullValueHeatMap.png)
+Data Types
+![](/images/dTypes.png)
+
+Heatmap of Null Values - We see that the Shooting column is mostly NaN values. Unfortunantley it is not clear if NaN represents no shooting or no information was recorded. 
+
+![](/images/nullValueHeatMap.png)
 
 ## Citations
 
