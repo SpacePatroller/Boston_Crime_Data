@@ -53,13 +53,22 @@ Heatmap of Null Values - We see that the Shooting column is mostly NaN values. U
 
 ## Exploratory Analysis of the Data Set
 
-Count of all offenses commited.
+Count of the 67 various offenses recorded in the Boston Crime Data Set. 
 
 ![](/images/offenseCount.png)
 
 ![](/images/streetsOffenseCount.png)
 
+Washington Street ranks highest in offense rates, with Blue Hill Ave and Boylston Street making up the top three streets with the highest offenses. 
+
+Washington Street is a street originating in downtown Boston, Massachusetts that extends southwestward to the Massachusetts–Rhode Island state line. The majority of it was built as the Norfolk and Bristol Turnpike in the early 19th century. It is the longest street in Boston, and it remains one of the longest streets in the state of Massachusetts.
+
+Washington Streets history is similar to Colfax Ave in Denver, Colorado, Colfax was once one of two principal highways serving Denver. Today Colfax is under rejunivation but has seen its days of high offenses rates similar to Washington street in boston. 
+
+
 ![](/images/districtOffenseCount.png)
+
+District B2 and D4 are in the top three and conicendently Washington Street crosses through both these districts. 
 
 Offense Counts by District Based on Overall Top Ten Offenses
 
@@ -68,6 +77,7 @@ Offense Counts by District Based on Overall Top Ten Offenses
 
 ![](/images/districtsOffenseHeatMap.png)
 
+There are four districts with distinct offenses being commited. D4 with 7,313 Larceny offenses, B2 with 6,407 Motor Vehicle Acidents, C11 with 5,305 Motor Vehicle Acidents, and A1 with 4,704 Larceny offenses. Not surprisingly these districts are also in the top four highest offenses areas. 
 
 ![](/images/offenseByWeekdayHeatmap.png)
 
@@ -90,3 +100,5 @@ _https://en.wikipedia.org/wiki/Boston_
  _"Population and Housing Occupancy Status: 2010 – State – County Subdivision, 2010 Census Redistricting Data (Public Law 94-171) Summary File". United States Census Bureau. Retrieved March 23, 2011._
 
 _https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system_
+
+_https://en.wikipedia.org/wiki/Washington_Street_(Boston)#cite_note-1_
