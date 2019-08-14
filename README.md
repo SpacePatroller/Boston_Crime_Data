@@ -81,14 +81,24 @@ There are four districts with distinct offenses being commited. D4 with 7,313 La
 
 ![](/images/offenseByWeekdayHeatmap.png)
 
+Motor Vehicle Accident Response take the majority of calls each day of the week, peaking on Friday at 5,852 offenses commited. Larceny is the second most offenses commited through out the week also peaking on Friday at 3,959 offenses. 
 
 ![](/images/crimesByyear.png)
 
+Our data starts on 2015-06-15 00:00:00 and ends on 2018-09-03 21:25:00, we are missing almost the first half of 2015 and last quarter of 2018. Due to this we will not have an accurate view of overall crime rates over the years, however it will still be possible to analyze the data on a monthly and daily basis.
+
+
 ![](/images/topTenbyYear.png)
 
+Top offenses over the years is no suprise and corellates with the top offenses observed earlier. 
 
-![](/images/)
-![](/images/)
+![](/images/crimeratesTimeSeries.png)
+
+It is evident that in the colder months (January-March) there is a significant drop in offenses, and (June-August) seeing a peak in offenses commited. 
+
+![](/images/topTenOffensesTimeSeries.png)
+
+
 ![](/images/)
 ![](/images/)
 
